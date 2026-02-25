@@ -1,22 +1,22 @@
 [
   {
     "name": "sekai.run",
-    "url": "https://sekai.run",
+    "url": "https://sekai.run?$QUERY_STRING",
     "icon": "https://raw.githubusercontent.com/bemusicscript/uptime.sekai.run/master/static/img/icon.png",
     "slug": "sekai-run",
     "status": "down",
-    "uptime": "1.25%",
-    "uptimeDay": "1.25%",
-    "uptimeWeek": "1.25%",
-    "uptimeMonth": "1.25%",
-    "uptimeYear": "1.25%",
-    "time": 287,
-    "timeDay": 287,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 211,
+    "timeDay": 211,
+    "timeWeek": 211,
+    "timeMonth": 211,
+    "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-02-25": 0
+      "2026-02-25": 6
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sekai.run.ico",
     "slug": "api-sekai-run",
     "status": "down",
-    "uptime": "1.53%",
-    "uptimeDay": "1.53%",
-    "uptimeWeek": "1.53%",
-    "uptimeMonth": "1.53%",
-    "uptimeYear": "1.53%",
-    "time": 317,
-    "timeDay": 317,
-    "timeWeek": 317,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "uptime": "0.30%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.30%",
+    "uptimeMonth": "0.30%",
+    "uptimeYear": "0.30%",
+    "time": 197,
+    "timeDay": 197,
+    "timeWeek": 197,
+    "timeMonth": 197,
+    "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-02-25": 0
+      "2026-02-25": 6
     }
   }
 ]
