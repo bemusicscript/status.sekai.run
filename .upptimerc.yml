@@ -3,7 +3,7 @@ repo: uptime.sekai.run
 
 sites:
   - name: sekai.run
-    url: https://sekai.run
+    url: https://sekai.run?$QUERY_STRING
     icon: https://raw.githubusercontent.com/bemusicscript/uptime.sekai.run/master/static/img/icon.png
   - name: api.sekai.run
     url: https://api.sekai.run/v3/healthcheck?$QUERY_STRING
